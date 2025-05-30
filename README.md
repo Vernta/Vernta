@@ -8,7 +8,8 @@
 ### 📚 Currently Learning
 - 🐍 Python 
 - 🌐 Web Development  
-- 🛠️ Git & GitHub 
+- 🛠️ Git & GitHub
+- 🤖 AI
 
 ---
 
@@ -44,4 +45,4 @@
 ---
 
 ### ✨ Thanks for stopping by!
-> Stay tuned for more episodes!
+> Stay tuned
