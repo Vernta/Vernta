@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋 I'm Vernta!</h1>
-<h3 align="center">Just a beginner exploring Python & Web Development 🐍💻</h3>
+<h3 align="center">Just a beginner</h3>
 
 ---
 
